@@ -1,15 +1,15 @@
 {
-  "name": "shadcn-vue",
+  "name": "shadcn-vue-servel",
   "type": "module",
-  "version": "1.0.3",
-  "description": "Add components to your apps.",
+  "version": "0.0.1",
+  "description": "guia componentes servel.",
   "publishConfig": {
     "access": "public"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/unovue/shadcn-vue.git",
+    "url": "https://github.com/dolguin/shadcn-vue-servel.git",
     "directory": "packages/cli"
   },
   "keywords": [
